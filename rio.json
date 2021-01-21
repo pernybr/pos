@@ -1,0 +1,15 @@
+[
+   {
+    "key" : "RJ",
+    "name" : "Rio de Janeiro",
+    "latitude" : -22.9129,
+    "longitude" : -43.2003
+  },
+  {
+    "key" : "MG",
+    "name" : "MINAS GERAIS",
+    "latitude" : -5.09194,
+    "longitude" : -42.8034
+  },
+  
+]
